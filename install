@@ -1,0 +1,3 @@
+#!/bin/bash -x
+python setup.py build_i18n -m
+python setup.py build
